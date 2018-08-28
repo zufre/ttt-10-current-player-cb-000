@@ -4,5 +4,7 @@ def turn_count(board)
     if field != " "
       count++
     end
+    
   end
+  count
 end
